@@ -1,0 +1,6 @@
+# Ignore everything in repository root 
+/env
+
+# Folder to not ignore
+# !/exercicio_pratico_01
+# !/exercicio_pratico_02
